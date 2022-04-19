@@ -14,16 +14,6 @@ img {
     margin-right: auto;
 }
 
-h1 {
-    margin: 16px;
-    padding: 16px;
-    font-size: 60px;
-    text-align: center;
-    font-weight: 900;
-    -webkit-text-stroke: 2px black; 
-    font-family: sans; color: #215f23;
-}
-
 h2 {
     margin: 16px;
     padding: 16px;
@@ -35,18 +25,11 @@ h2 {
     font-family: sans; color: #215f23;
 }
 
-table.center {
-    margin-left: auto; 
-    margin-right: auto;
-}
+
 .header {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-}
-
-.head {
-    padding: 80px auto 20px auto;
 }
 
 .pic {
@@ -59,35 +42,10 @@ table.center {
     display: flex;
 }
 
-.cont {
-    display: flex;
-    flex-flow: row wrap;
-    padding: 80px 80px 20px 20px;
-    width: 30%;
-    text-align: left;
-    font-size: 24px;
-    font-weight: 700;
-}
-
 .cont_pic {
     padding: 30px;
     width: 12%;
     height: 12%;
-}
-
-.knap a {
-    text-align: center;
-    margin: 16px;
-    width: 10%; 
-    font-size: 32px;  
-}
-
-.knap :hover {
-    color: red;
-}
-
-.row1 {
-    font-weight: 900;
 }
 
 td {
